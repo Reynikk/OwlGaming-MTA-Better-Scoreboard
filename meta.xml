@@ -1,0 +1,10 @@
+<meta>
+	<info author="Reynikk" type="script" version="1.0" />
+
+	<script src="c_tab_minimal.lua" type="client" />
+	<script src="c_test_dummy.lua" type="client" />
+	<script src="s_tab.lua" type="server" />
+ 
+	<export function="isVisible" type="client" />
+
+</meta>
