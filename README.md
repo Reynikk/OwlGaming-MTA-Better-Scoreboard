@@ -15,7 +15,8 @@ This project adds a **modern and customizable scoreboard** to the **OwlGaming** 
 > I do **NOT provide support** for setting up OwlGaming itself.
 
 1. Make sure your OwlGaming server is running properly.
-2. Copy the `scoreboard` folder into your server’s `resources/` directory.
+2. Delete all files in `scoreboard` folder in your server’s `resources/` directory.
+2. Copy the `files` from this repo into your server’s `resources/scoreboard` directory.
 3. Add the resource to your `mtaserver.conf`:
 
    ```xml
